@@ -1,0 +1,9 @@
+{
+  "name": "@olivdev/my-second-package",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": "git@github.com:OliveiraCleidson/mySecondPackage.git",
+  "author": "Cleidson Oliveira <gk.cleidson@yahoo.com.br>",
+  "license": "MIT",
+  "private": false
+}
